@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">iRPSLS</string>
+    <string name="move_message">Type in your move</string>
+    <string name="p1_message">Player One\'s move</string>
+    <string name="p2_message">Player Two\'s move</string>
+    <string name="button_value">Play</string>
+    <string name="pick_game">Pick a Game:</string>
+    <string name="one_player">One Player</string>
+    <string name="two_player">Two Players</string>
+</resources>

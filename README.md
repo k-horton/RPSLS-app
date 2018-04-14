@@ -1,5 +1,5 @@
 # RPSLS-app
-Android application for a more entertaining version of the classic coin-flip.
+An Android application for a more entertaining, statistically more random version of the classic rock-paper-scissors phenomenon.
 
 # I suggest Rock Paper Scissors Lizard Spock.
 It's very simple.
